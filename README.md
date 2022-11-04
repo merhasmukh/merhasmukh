@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as Machine Learnig Engineer 
+- 🔭 I’m currently working as a Machine Learnig Engineer. 
 
 
 
