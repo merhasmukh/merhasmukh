@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - <a href='https://github.com/mhgn/Full_Stack_Data_Science'>https://github.com/mhgn/Full_Stack_Data_Science</a>
 - <a href="https://pwskills.com/course/Data-Science-masters?campaign=affiliate&coupon_code=QGRGIHRA">Data Science Master Course With Very Low Price</a>
 
-- <a href='https://www.buymeacoffee.com/hasmukhmer'>Buy me a coffee..</a>
+
 
 
 
